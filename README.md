@@ -75,8 +75,8 @@ This project is licensed under the MIT License.
 
 👤 Author
 
-Your Name
-
+Priyavarseinee A S
+Jinkala Shahanaz
 
 ---
 
