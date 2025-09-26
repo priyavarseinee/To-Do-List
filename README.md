@@ -17,10 +17,6 @@ A simple and responsive To-Do List web application built with HTML, CSS, and Jav
 - *CSS3* – Styling and responsiveness  
 - *JavaScript (ES6)* – Functionality and interactivity  
 
----
-
-## 📷 Screenshots
-(Add screenshots of your application here)
 
 ---
 
@@ -66,13 +62,6 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ---
 
-📜 License
-
-This project is licensed under the MIT License.
-
-
----
-
 👤 Author
 
 Priyavarseinee A S
@@ -80,4 +69,3 @@ Jinkala Shahanaz
 
 ---
 
-Would you like me to make this *short and minimal* (good for quick student projects) or a *detailed professional README* with badges, demo links, and screenshots placeholders?
